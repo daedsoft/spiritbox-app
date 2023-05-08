@@ -1,6 +1,6 @@
 const Layout = ({ children }) => {
   return (
-    <main className=" relative bg-sky-950 h-screen w-screen">
+    <main className="relative bg-sky-800 h-screen w-full">
         {children}
     </main>
   )
